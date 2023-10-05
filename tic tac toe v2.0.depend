@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1469014473 source:c:\users\toshiba\desktop\pro files\c\tic tac toe v2.0\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<string>
+	<fstream>
+
+1469285938 source:c:\users\toshiba\desktop\pro files\c++\tic tac toe v2.0\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<string>
+	<fstream>
+
+1471995673 source:c:\users\toshiba\desktop\pro files\c++\tic tac toe v.2.0\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<string>
+	<fstream>
+
+1496548954 source:e:\backup\desktop\pro files\c++\tic tac toe v.2.0\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<string>
+	<fstream>
+
